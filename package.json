@@ -1,0 +1,27 @@
+{
+  "name": "redribbot-brain",
+  "version": "0.0.1",
+  "description": "A tiny brain for redribbot scripts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firebase",
+    "hubot"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/redribbon/redribbot-brain.git"
+  },
+  "bugs": {
+    "url": "https://github.com/redribbon/redribbot-brain/issues"
+  },
+
+  "author": "chitacan",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^2.2.0",
+    "rx": "^2.3.25"
+  }
+}
