@@ -12,7 +12,7 @@ npm install redribbot-brain
 
 `FIREBASE_TOKEN` should be on environemnt variable.
 
-```
+```coffee
 B = require 'redribbot-brain'
 
 # firebase root ref can be accessed via B.root
